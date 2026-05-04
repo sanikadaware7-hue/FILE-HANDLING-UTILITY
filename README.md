@@ -4,7 +4,7 @@
 
 "NAME":SANIKA DAWARE
 
-"INTERN ID" : CTIS68
+"INTERN ID" : CTIS7488
 
 "DOMAIN" : JAVA PROGRAMMING
 
@@ -46,3 +46,6 @@ Conclusion This File Handling Utility is more than just a simple script; it is a
 
 
 "OUTPUT" :
+
+<img width="1908" height="1068" alt="Image" src="https://github.com/user-attachments/assets/96f2e3d4-e242-4b39-b067-e05149b53cf5" />
+
